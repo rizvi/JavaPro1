@@ -1,4 +1,4 @@
-package com.rizvi;
+package org.rizvi;
 
 public class Test2{
 	public static void main(String args[]){
